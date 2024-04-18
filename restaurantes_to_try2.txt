@@ -1,0 +1,5 @@
+README.md
+groceries.txt
+restaurantes_to_try.txt
+restaurantes_to_try2.txt
+winelist.txt
